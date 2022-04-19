@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tayoski7
+- 👋 Hi, I’m James
 - 👀 I’m interested in front end developer roles
 - 🌱 I’m currently learning react.js and node.js
 - 💞️ I’m looking to collaborate on front end development jobs
