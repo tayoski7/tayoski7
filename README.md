@@ -1,6 +1,6 @@
 - 👋 Hi, I’m James
 - 👀 I’m interested in front end developer roles
-- 🌱 I’m currently learning react.js and node.js
+- 🌱 I’m skilled in react.js and currently learning node.js
 - 💞️ I’m looking to collaborate on front end development jobs
 - 📫 you can reach me at tayoski7@gmail.com
 
